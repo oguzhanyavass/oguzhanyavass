@@ -33,15 +33,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanyavass&show_icons=true&locale=en&layout=compact" alt="oguzhanyavass" /></p>
+<div align="right">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanyavass&show_icons=true&locale=en&layout=compact" alt="oguzhanyavass" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=oguzhanyavass&show_icons=true&locale=en" alt="oguzhanyavass" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanyavass&" alt="oguzhanyavass" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanyavass&show_icons=true&locale=en" alt="oguzhanyavass" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanyavass&" alt="oguzhanyavass" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
