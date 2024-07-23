@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/bx5pk8h.png)
+![MasterHead](https://i.hizliresim.com/bx5pk8h.png)
 
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">Someone who tries to gain a versatile perspective, is open to innovations, and tries to improve himself.</h3>
