@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhanyavass&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhanyavass" /> </p>
 
-- 🔭 I’m currently working on [Frontend & Backend Devs Program organized by Patika.dev, in collaboration with Rise In and Circle](https://www.patika.dev/en/bootcamp/frontend-backend-devs-challenge)
+- 🔭 I’m currently working on [React Native Mobile App](https://reactnative.dev/)
 
 - 🌱 I’m currently learning **React Native**
 
