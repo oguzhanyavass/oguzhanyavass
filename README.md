@@ -1,72 +1,80 @@
-<!-- Header Banner -->
+
+<!-- Header Görseli - README klasöründe barındırmanı öneririm -->
 <p align="center">
-  <img src="https://i.hizliresim.com/bx5pk8h.png" alt="Header" width="100%" />
+  <img width="4950" height="1238" alt="Image" src="https://github.com/user-attachments/assets/c81df5f1-0ac6-44bd-9a35-66a794911572" />
 </p>
 
-<h1 align="center">Hi, I'm Oğuzhan&nbsp;Yavaş&nbsp;👋</h1>
-<h3 align="center">
-  React Native&nbsp;Developer&nbsp;· AI&nbsp;Enthusiast&nbsp;· Lifelong&nbsp;Learner
-</h3>
+<h1 align="center">Hi 👋, I'm Oğuzhan Yavaş</h1>
+<h3 align="center">React Native & Full-Stack Developer | AI-Driven Product Builder ⚡</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/oguzhanyavass">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/oguzhanyavass/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:oguzhanyavas06@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://github.com/oguzhanyavass" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=oguzhanyavass&style=for-the-badge&color=lightgrey" />
+  <a href="mailto:oguzhanyavas06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🛠 Currently building **cross-platform mobile apps** with React Native (Expo & bare).  
-- 🤖 Exploring the intersection of **mobile & AI** (OpenAI, Gemini) to craft smarter user experiences.  
-- 🎯 Open to **full-time React Native opportunities** in Istanbul or remote.  
-- 📬 Reach me anytime at **oguzhanyavas06@gmail.com**.  
-- 🎸 Code by day, play metal riffs by night 🤘.
+
+- 🎓 Final-year **Information Systems Engineering** student at Sakarya University  
+- 📱 Passionate about **React Native** and cross-platform mobile app development  
+- 🧠 Interested in the intersection of **Mobile Development** and **AI**  
+- 🧪 Experienced with: `React Native`, `TypeScript`, `Firebase`, `Kotlin`, `PostgreSQL`, `AI APIs`  
+- 🛠️ Building production-level apps for both **startups** and **research projects**
 
 ---
 
-### 🏆 Key Projects
-| Project | Tech | Highlights |
-|---------|------|------------|
-| **StoriaFlow** | React Native · Firebase · Gemini/Whisper | AI-powered habit-tracking app (TÜBİTAK 2209) |
-| **Smart Beauty** | Kotlin · Jetpack Compose · ASP.NET API | Live skin-analysis app on Google Play |
-| **Pulse ERP** | Next.js · Supabase · Tailwind | Web ERP with real-time dashboards |
-| **Giddy** | React Native · Stripe · Maps API | Uber-like ride-sharing clone |
+### 📱 Highlight Projects
 
-> 🔗 More in **/projects** and pinned repos.
-
----
-
-### 🛠 Tech Stack / Toolbox
-**Mobile / Frontend**  
-`React Native` · `Expo` · `TypeScript` · `Next.js` · `Tailwind CSS` · `Kotlin`  
-
-**Backend / Cloud**  
-`Firebase` · `Supabase` · `ASP.NET MVC (C#)` · `PostgreSQL`  
-
-**AI / Data**  
-`OpenAI Whisper` · `Google Gemini` · `TensorFlow` · `Keras`  
-
-**Workflow**  
-`Git & GitHub` · `Jest` · `React Native Testing Library` · `Figma` · `Agile / Scrum`
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **StoriaFlow** (TÜBİTAK 2209) | React Native, Gemini API, Firebase | AI-powered personal development app with video, voice & text input |
+| **Smart Beauty** | Kotlin, Jetpack Compose, Firebase | Android app for AI-based real-time skin analysis |
+| **PulseERP** | Next.js, Supabase, PostgreSQL | Web-based ERP system with real-time CRUD & dynamic dashboard |
+| **Giddy (Uber Clone)** | React Native, Expo, Google Maps | Ride-sharing app with Stripe payments and real-time location tracking |
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanyavass&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanyavass&layout=compact&hide=html,css" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanyavass" height="170"/>
-</div>
+### 🧰 Tech Stack
+
+**Languages:**  
+`JavaScript` `TypeScript` `Kotlin` `C#` `SQL`
+
+**Mobile & Frontend:**  
+`React Native` `Expo` `Next.js` `Tailwind CSS` `Styled Components` `Shadcn/UI`
+
+**Backend & DB:**  
+`Firebase` `Supabase` `ASP.NET MVC` `PostgreSQL` `NeonDB`
+
+**AI & Data:**  
+`TensorFlow` `OpenAI Whisper` `Google Gemini` `NumPy` `Matplotlib`
+
+**Tools & Others:**  
+`Git` `GitHub` `Figma` `Canva` `Jest` `Vercel` `Agile`
 
 ---
 
-### ☕ Support
-If you like my work, consider buying me a coffee!  
-<a href="https://www.buymeacoffee.com/oguzhanyavas">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee">
-</a>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanyavass&show_icons=true&theme=react" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanyavass&theme=react" alt="streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanyavass&layout=compact&theme=react" alt="top languages" />
+</p>
+
+---
+
+### 🤘 Let's Connect
+
+> Feel free to reach out for collaborations, tech talks, or just to say hi!  
+> ⚡ _"Build fast. Fail fast. Learn fast."_ ⚡
+
