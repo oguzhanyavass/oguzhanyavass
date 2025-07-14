@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Information Systems Engineering** student at Sakarya University  
+- 🎓 🎓 Graduated with a **B.Sc. in Information Systems Engineering** from Sakarya University (Class of 2025) 
 - 📱 Passionate about **React Native** and cross-platform mobile app development  
 - 🧠 Interested in the intersection of **Mobile Development** and **AI**  
 - 🧪 Experienced with: `React Native`, `TypeScript`, `Firebase`, `Kotlin`, `PostgreSQL`, `AI APIs`  
